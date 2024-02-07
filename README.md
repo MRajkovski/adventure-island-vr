@@ -2,6 +2,7 @@
 ## A basic starter project for an adventure game
 
 ### List of implemented features:
+```
   Player Physics
   Basic Terrain Environment
   Basic Post Processing
@@ -10,8 +11,10 @@
   Climb Interaction
   Physics Based Movement
   Day - Night Cycle
-  
+```
+
 ### Todo:
+```
   Volumetric Fog
   Volumetric Clouds
   Rain Particles
@@ -26,5 +29,6 @@
   Add Cave System
   Add Parachute
   Add Swimming
+```
 
 ### List of required packages: *WorkInProgress*
