@@ -55,5 +55,7 @@
 
 Adventure island demo [video](https://youtu.be/z_0cTuw8fi4)
 
-PCVR [demo](https://we.tl/t-47CV2Eaqaj)
+PCVR [demo](https://we.tl/t-47CV2Eaqaj) ** Recommended **
+
+
 Android [demo](https://we.tl/t-Moox4ww1rE)
