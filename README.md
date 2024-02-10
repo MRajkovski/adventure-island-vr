@@ -51,4 +51,9 @@
 **Any and all materials imported should be converted to URP. You can do so by using the *Search by type* button inside of Unity's Project window,
   then selecting the materials from each imported folder and going Edit > Rendering > Materials > Convert Selected Built-In Materials to URP**
   
-### Example videos *Work In Progress*
+### Example videos and demo builds *Work In Progress*
+
+Adventure island demo [video](https://youtu.be/z_0cTuw8fi4)
+
+PCVR [demo]()
+Android [demo]()
