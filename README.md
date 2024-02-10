@@ -11,6 +11,8 @@
   There is a graphics button in the main menu options which can disable the more impactful details,
   currently only disables fog and post processing.
 
+  Movement is physics based so you can use your hands to push yourself on top of objects giving a nice climbing movement.
+
   The game uses default XRI Inputs from OpenXR and XR Interaction Toolkit.
 
   Special input features included are:
